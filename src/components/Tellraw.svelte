@@ -195,9 +195,9 @@ import Datalist from './Datalist.svelte';
 
     <div class="row">
       <div class="col">
-        <span style="color: grey; font-size: 10px;">
+<!--         <span style="color: grey; font-size: 10px;">
           <a href="https://ezekielelin.com/contact" target="_blank">Contact Me</a> | "Minecraft" content and materials are trademarks and copyrights of Mojang and its licensors. This site is not affiliated with Mojang.
-        </span>
+        </span> -->
         <button on:click={speedtest} style="display: none;">speedtest</button>
       </div>
     </div>
