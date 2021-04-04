@@ -1,4 +1,4 @@
-<script lang="typescript">
+<!-- <script lang="typescript">
   import { DropdownItem,DropdownMenu,DropdownToggle,UncontrolledDropdown } from 'sveltestrap';
   import CodeBranch from './generic/Icons/CodeBranch.svelte';
   import FileDownload from './generic/Icons/FileDownload.svelte';
@@ -30,3 +30,4 @@
     </DropdownItem>
   </DropdownMenu>
 </UncontrolledDropdown>
+ -->
