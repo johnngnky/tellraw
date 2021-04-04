@@ -87,7 +87,7 @@ import Datalist from './Datalist.svelte';
   {:else}
     <div class="row">
       <div class="col-sm-8 col-md mb-2">
-        <h4>Tellraw Generator for Minecraft</h4>
+        <h4>Tellraw Generator for Arti</h4>
       </div>
       <div class="col-sm-5 mb-2">
         <div class="btn-toolbar d-flex justify-content-end"
