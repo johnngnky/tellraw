@@ -90,14 +90,14 @@ import Datalist from './Datalist.svelte';
         <h4>Tellraw Generator for Arti</h4>
       </div>
       <div class="col-sm-5 mb-2">
-        <div class="btn-toolbar d-flex justify-content-end"
+<!--         <div class="btn-toolbar d-flex justify-content-end"
               role="toolbar"
               aria-label="Toolbar with button groups">
           <Button size="sm" color="danger" href="https://github.com/ezfe/tellraw/issues/new" target="_">
             <ExclamationTriangle /> Report an Issue
           </Button>
           <SiteActions />
-        </div>
+        </div> -->
       </div>
     </div>
     <div class="row">
